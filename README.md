@@ -37,4 +37,3 @@ SELECT * FROM Employee;
 DESCRIBE Employee;
 
 
-![](https://imgur.com/ZdiaMeo.gif)
